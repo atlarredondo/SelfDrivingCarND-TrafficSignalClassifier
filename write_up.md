@@ -17,15 +17,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image0]: (https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/vis_train.png) "Visualization"
-[image1]: .https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/og.png "Orginial Image"
-[image2]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/grey_norm.png "Grayscaling"
-[image2]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/grey_norm_flipped.png "Grayscaling Flipped"
-[image4]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/new_images/stop.jpg "Traffic Sign 1"
-[image5]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/new_images/100.jpg "Traffic Sign 2"
-[image6]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/new_images/construction.jpg "Traffic Sign 3"
-[image7]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/new_images/right.jpg "Traffic Sign 4"
-[image8]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/new_images/yield_to_cross.jpg "Traffic Sign 5"
+[image0]: ./writeup_imgs/vis_train.png "Visualization"
+[image1]: ./writeup_imgs/og.png "Orginial Image"
+[image2]: ./writeup_imgs/grey_norm.png "Grayscaling"
+[image2]: ./writeup_imgs/grey_norm_flipped.png "Grayscaling Flipped"
+[image4]: ./new_images/stop.jpg "Traffic Sign 1"
+[image5]: ./new_images/100.jpg "Traffic Sign 2"
+[image6]: ./new_images/construction.jpg "Traffic Sign 3"
+[image7]: ./new_images/right.jpg "Traffic Sign 4"
+[image8]: ./new_images/yield_to_cross.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
