@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image0]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/vis_train.png "Visualization"
+[image0]: (https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/vis_train.png) "Visualization"
 [image1]: .https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/og.png "Orginial Image"
 [image2]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/grey_norm.png "Grayscaling"
 [image2]: https://github.com/atlarredondo/SelfDrivingCarND-TrafficSignalClassifier/tree/master/writeup_imgs/grey_norm_flipped.png "Grayscaling Flipped"
